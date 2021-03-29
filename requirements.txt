@@ -10,7 +10,7 @@ pefile==2017.8.1
 post==0.0.13
 public==0.0.38
 py2exe==0.9.2.2
-Pygments==2.2.0
+Pygments==2.7.4
 PyInstaller==3.2.1
 pypiwin32==220
 pytz==2017.2
